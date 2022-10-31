@@ -1,0 +1,12 @@
+[Setting]
+DefaultDelay=10
+DelayType=0
+LoopType=0
+LoopTime=1
+Count=2
+Map_0=132
+DataH_0=0
+DataL_0=107
+Map_1=4
+DataH_1=0
+DataL_1=107
