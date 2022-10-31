@@ -26,7 +26,7 @@
   + Apply.
 
 ### Notes:
-  Structure macro file **NAME.MSMACRO**
+  Macro file structure **NAME.MSMACRO**
   ```
 [Setting]
 DefaultDelay=10
