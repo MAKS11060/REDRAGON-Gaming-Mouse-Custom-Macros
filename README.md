@@ -24,8 +24,8 @@
   + Select **Custimize**, change **Single key** to **Macro manager** and Select the desired macro
   + Apply.
 
-> [!NOTE] Macro file structure
-> **[NAME].MSMACRO**
+> [!NOTE]
+> Macro file structure **`[NAME].MSMACRO`**
 >
 > ```ini
 > [Setting]
